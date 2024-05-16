@@ -41,9 +41,8 @@ print("Amount:",regr.predict([[3300,1300]]))
 
 ```
 ## Output:
+![image](https://github.com/23002027/Multivariate-Linear-Regression/assets/139752981/f82a3112-572b-48b6-9c84-6b94ae38b477)
 
-
-![OUTPUT](/exp10.png)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
