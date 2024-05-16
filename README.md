@@ -20,8 +20,8 @@ find the multivariate regression
 ### Step5
 display the output
 
-# Developed by:R.Kamesh
-# Register no:212223230095
+# Developed by : Navin kumar.V
+# Register no:212223230141
 ## Program:
 ```
 import pandas as pd
